@@ -56,6 +56,6 @@
     "sprintf-js": "1.0.3",
     "underscore": "1.8.3",
     "watch-trigger": "0.0.5",
-    "webpack": "1.12.9"
+    "webpack": "5.94.0"
   }
 }
